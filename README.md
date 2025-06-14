@@ -41,7 +41,6 @@ StockFollow/
 ├── bin/
 ├── obj/
 ```
-> Not: Liste API kısıtı nedeniyle ilk 10 ögeyle sınırlıdır.
 
 ---
 
